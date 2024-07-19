@@ -14,12 +14,12 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 
-- I’m currently working on __[Chalkboard](https://github.com/zjayers/chalkboard)__.
+- I’m currently working on __[Chalkboard](https://github.com/jason93C)__.
 - I’m currently learning __Ruby__, __PHP__, & __GoLang__.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
 - Fun-Fact: I was a mechanical engineering before becoming a software engineer.
-- How to reach me: __z.ayers@icloud.com__
+- How to reach me: __jason199cortes@hotmail.com__
 
 ---
 
@@ -69,11 +69,11 @@ You can use the website to generate badges: https://shields.io/
 
 ---
 
-<a href="https://github.com/zjayers/github-readme-stats">
+<a href="https://github.com/jason93C/github-readme-stats">
    <img width="60%" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=zjayers&show_icons=true&hide_border=true" />
 </a>
 
 -----
-Credits: [zjayers](https://github.com/zjayers)
+Credits: [Json.Cortes](https://github.com/jason93C)
 
-Last Edited on: 30/08/2020
+Last Edited on: 07/18/2024
